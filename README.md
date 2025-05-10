@@ -1,5 +1,5 @@
 # Capstone_Project_Module_3
-## **Mengoptimalkan Harga Apartemen di Area Daegu - Korea Selatan, menggunakan Analisis Machine Learning
+## **Mengoptimalkan Harga Apartemen di Area Daegu - Korea Selatan, menggunakan Analisis Machine Learning**
 
 # **1. Business Problem Understanding**
 
